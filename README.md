@@ -4,16 +4,16 @@
 Проект выполнен в рамках курса по анализу данных. Цель – оценить успешность A/B-теста, проведённого в крупном дейтинговом приложении. В тесте для новых пользователей из нескольких стран изменялась стоимость премиум-подписки при покупке через две новые платёжные системы. Пробный период оставался прежним. Необходимо проверить, был ли эксперимент успешен.
 
 ## Стек
-<p>
-  <img width="98" height="28" alt="image" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img width="110" height="28" alt="image" src="https://img.shields.io/badge/datetime-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<div>
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/datetime-white?logo=python&logoColor=blue&style=for-the-badge" title="datetime" alt="datetime" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=for-the-badge" title="NumPy" alt="NumPy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/scipy-white?logo=scipy&logoColor=black&style=for-the-badge" title="SciPy" alt="SciPy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/seaborn-white?logo=seaborn&logoColor=black&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/jupiter-white?logo=jupyter&logoColor=orange&style=for-the-badge" title="Jupiter" alt="Jupiter" height="40"/>&nbsp;
+</div>
 
 ## Данные
 - Источник: данные предоставлены в рамках курса.
